@@ -21,6 +21,18 @@ This following link contains both train(train.json.7z) and test(test.json.7z) da
 
 
 
+### 3D image samples for the training data
+
+#### Iceberg
+
+![Iceberg](./img/Iceberg-side.png)
+
+#### Ship
+
+![Ship](./img/Ship-side.png)
+
+
+
 ### iPython Notebooks
 
 - Exploratory Visualization
@@ -48,6 +60,12 @@ This following link contains both train(train.json.7z) and test(test.json.7z) da
 - Other Optimizer of SGD
   - Adadelta
     - [Model_03-Adadelta-k=3](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-Adadelta-k%3D3.ipynb)
+
+
+
+## Transfer Learning Model
+
+![VGG16model](./img/VGG16model.png)
 
 ## Example Results
 
