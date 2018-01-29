@@ -49,3 +49,6 @@ This following link contains both train(train.json.7z) and test(test.json.7z) da
   - Adadelta
     - [Model_03-Adadelta-k=3](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-Adadelta-k%3D3.ipynb)
 
+## Example Results
+
+![sample results](./img/sample_results.png)
