@@ -65,8 +65,14 @@ This following link contains both train(train.json.7z) and test(test.json.7z) da
 
 ## Transfer Learning Model
 
-![VGG16model](./img/VGG16model.png)
+![VGG16model](./img/Final_Model.png)
 
 ## Example Results
 
-![sample results](./img/sample_results.png)
+![sample results](./img/pred_output-colortile.png)
+
+## Model Evaluation
+
+![model accuracy](./img/output_13_1.png)
+
+![model loss](./img/output_13_2.png)
