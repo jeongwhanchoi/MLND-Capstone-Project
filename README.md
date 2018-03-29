@@ -48,18 +48,24 @@ This following link contains both train(train.json.7z) and test(test.json.7z) da
   - [Model_00](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_00.ipynb)
 - Improved CNN Model
   - [Model_01](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_01.ipynb)
-- VGG16 CNN Model
-  - K=3
-    - [Model_03-SGD-k=3](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-SGD-k%3D3.ipynb)
-  - K=5
-    - [Model_03-SGD-k=5](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-SGD-k%3D5.ipynb)
-  - K=7
-    - [Model_03-SGD-k=7](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-SGD-k%3D7.ipynb)
-  - K=10 (Final CNN Model)
-    - [Model_03-SGD-k=10](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-SGD-k%3D10.ipynb)
-- Other Optimizer of SGD
-  - Adadelta
-    - [Model_03-Adadelta-k=3](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-Adadelta-k%3D3.ipynb)
+- ~~VGG16 CNN Model~~
+  - ~~K=3~~
+    - ~~[Model_03-SGD-k=3](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-SGD-k%3D3.ipynb)~~
+  - ~~K=5~~
+    - ~~[Model_03-SGD-k=5](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-SGD-k%3D5.ipynb)~~
+  - ~~K=7~~
+    - ~~[Model_03-SGD-k=7](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-SGD-k%3D7.ipynb)~~
+  - ~~K=10 (Final CNN Model)~~
+    - ~~[Model_03-SGD-k=10](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-SGD-k%3D10.ipynb)~~
+
+
+#### Final Model I proposed
+
+- **VGG16 CNN Model**
+  - Final Classifier Model
+    - [Model_03-Adam-k=10_amsgrad-0001-15p](https://github.com/jeongwhanchoi/MLND-Capstone-Project/blob/master/Model_03-Adam-k%3D10-amsgrad-0001-15p-Copy3.ipynb)
+
+
 
 
 
